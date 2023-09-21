@@ -1,1 +1,1 @@
-node_modules
+#SEQUELIZE-08-JCWDOL011
